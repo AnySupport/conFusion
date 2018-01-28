@@ -38,6 +38,7 @@ body {
 	background-color: #512DA8;
 }
 
+/* Add borders to the tabs */
 .tab-content {
 	border-left: 1px solid #ddd;
 	border-right: 1px solid #ddd;
